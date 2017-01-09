@@ -1,0 +1,12 @@
+{
+  "name": "sudoku-fp",
+  "version": "1.0.0",
+  "description": "Functional Sudoku solver",
+  "main": "index.js",
+  "repository": "git@github.com:agriffis/sudoku-fp.git",
+  "author": "Aron Griffis <aron@scampersand.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
+}
